@@ -6,6 +6,7 @@
 - 📫 How to reach me **ganeshsprabhu2000@gmail.com**
 
 - 📄 Know about me [https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit?usp=sharing](https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit?usp=sharing)
+- My Portfolio Details [https://jovial-kringle-f9cb4b.netlify.app](https://jovial-kringle-f9cb4b.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
