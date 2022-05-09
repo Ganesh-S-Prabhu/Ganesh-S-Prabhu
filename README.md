@@ -8,7 +8,7 @@ I love to work on exciting projects that test what I've learnt, whilst being exp
 - 📫 How to reach me *ganeshsprabhu2000@gmail.com*
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit](https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit)
-- My Portfolio link :[https://jovial-kringle-f9cb4b.netlify.app](https://jovial-kringle-f9cb4b.netlify.app)
+- My Portfolio link :[https://portfolio-sepia-tau.vercel.app/#home](https://portfolio-sepia-tau.vercel.app/#home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
