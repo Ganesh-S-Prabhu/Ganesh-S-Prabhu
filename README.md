@@ -7,7 +7,7 @@ I love to work on exciting projects that test what I've learnt, whilst being exp
 
 - 📫 How to reach me *ganeshsprabhu2000@gmail.com*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit?usp=sharing](https://docs.google.com/document/d/1k1vJovo30HKaBH6Wrgdoe1baoUaxBlvIbkZtZRIEeCY/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d16vg6myPnsXejQuSdsAAszKdyMJRu1Y/view?usp=sharing](https://drive.google.com/file/d/1d16vg6myPnsXejQuSdsAAszKdyMJRu1Y/view?usp=sharing)
 - My Portfolio link :[https://portfolio-sepia-tau.vercel.app/#home](https://portfolio-sepia-tau.vercel.app/#home)
 
 <h3 align="left">Connect with me:</h3>
